@@ -26,7 +26,7 @@ export default function Q4() {
           </p>
           <br />
       <p>
-        I understand you would like to redirect the &quot;/blog&quot; path on your Vercel project to another website. Please correct me if I have not fully understood your request.
+        I understand you would like to redirect the &quot;/blog&quot; path on your Vercel project to another website. 
       </p>
       <br />
       <p>
@@ -39,12 +39,7 @@ export default function Q4() {
       <p>
         “Configuration-based redirects can be defined in a framework-specific config file or in the vercel.json file, which is located in the root of your application. The vercel.json should contain a redirects field, which is an array of redirect rules.”
       </p>
-      <p>
-        Please review these redirect status codes to learn more about how they impact SEO{' '}
-        <a href="https://vercel.com/docs/edge-network/redirects#redirect-status-codes" style={linkStyle}>
-          [2]
-        </a>.
-          </p>
+  
           <br />
       <p>
         Please reach out if you have further questions.

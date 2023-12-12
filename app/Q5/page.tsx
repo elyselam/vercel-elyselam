@@ -20,10 +20,12 @@ export default function Q5() {
       <p>Hello customer_first_name,</p>
       <br />
       <p>
-        We understand your frustrations and we are prioritizing your issue. I am happy to join a conference call if you are available. Please provide a few 30-minute time slots today and tomorrow that we can sync to resolve your issue.
+        I am sorry to hear about the frustration you have experienced. and we are prioritizing your issue. I am happy to join a conference call if you are available. While I cannot troubleshoot live during the call, having a more detailed conversation will allow me to better understand the problem and provide more targeted assistance. Could you please suggest a few time slots that work for you, and we can coordinate a call to explore the issue together?
 
       </p>
       <br />
+      <p>
+        Are you using relative paths or wildcards? What have you tried and please attach documentations you have reviewed so we can attempt to reproduce the issue on our end.
         I cannot confirm of platform outages without further information from your end. We understand this is a difficult process and we welcome your feedback. I look forward to hearing from your.
       <p>
         
