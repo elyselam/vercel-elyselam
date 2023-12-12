@@ -9,7 +9,7 @@ export default function Q2() {
 
     Next JS is easy to learn if you have a basic knowledge of React, whereas React JS is easy to learn and use if you have an understanding of JavaScript, HTML, and CSS.`
   return (
-     <div style={{ textAlign: 'center', marginTop: '50px' }}>
+     <div style={{ textAlign: 'center' as const, marginTop: '50px' }}>
      {content}
     </div>
   )

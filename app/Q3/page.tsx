@@ -10,7 +10,7 @@ Serverless Function allows you to run code without managing your own infrastruct
 Edge Middleware provides code that executes before a request is processed on a site. It runs before the cache so it’s an effective way to provide personalized logic, rewrite, redirect, add headers and more before returning a response to statically generated content. Both Edge Functions and Edge Middleware run on Edge Runtime. You can use Edge functions instead of Serverless functions while you can use Edge middleware together with Serverless functions.`
   return (
     
-      <div style={{ textAlign: 'center', marginTop: '50px' }}>
+      <div style={{ textAlign: 'center' as const, marginTop: '50px' }}>
       { content }
       </div>
 

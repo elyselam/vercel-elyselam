@@ -3,7 +3,7 @@ import Header from './header';
 
 const listItemStyle = {
   margin: '20px 0',
-  textAlign: 'left', 
+  textAlign: 'left' as const, 
   
   color: '#008080',
 };

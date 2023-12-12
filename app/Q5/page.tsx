@@ -1,7 +1,7 @@
 import React from 'react';
 
 const emailStyle = {
-  textAlign: 'left',
+  textAlign: 'left' as const,
   margin: '50px auto',
   maxWidth: '600px',
   fontSize: '16px',
