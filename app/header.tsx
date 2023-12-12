@@ -2,7 +2,7 @@ import React from 'react';
 
 const headerStyle = {
   margin: '40px 0', 
-  textAlign: 'center',
+  textAlign: 'center' as const,
   fontSize: '36px', 
   fontWeight: 'bold', 
 };
