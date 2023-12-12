@@ -27,7 +27,7 @@ export default function Q5() {
       <p>
         Are you using relative paths or wildcards? What have you tried and please attach documentations you have reviewed so we can attempt to reproduce the issue on our end.
         I cannot confirm of platform outages without further information from your end. We understand this is a difficult process and we welcome your feedback. I look forward to hearing from your.
-      <p>
+ 
         
       </p>
       <br />
