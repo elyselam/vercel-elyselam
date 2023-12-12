@@ -26,11 +26,11 @@ export default function Q6() {
       </p>
       <br />
       <p>
-        If you don’t already have a <code>vercel.json</code> file, please add the following. If you already have a <code>vercel.json</code> file, ignore the outer braces, and just add the <code>headers</code> key inside your object.
+        If you don&apos;t already have a <code>vercel.json</code> file, please add the following. If you already have a <code>vercel.json</code> file, ignore the outer braces, and just add the <code>headers</code> key inside your object.
       </p>
       <br />
       <p>
-        If you are using a Custom Domain for your preview deployments and wish to override the default behavior of omitting <code>X-Robots-Tag: noindex</code>, you should first look to inject the response header using your framework's built-in methods. If you are not using a framework or your framework does not support injecting response headers, you may modify the Header object in your <code>vercel.json</code> file.
+        If you are using a Custom Domain for your preview deployments and wish to override the default behavior of omitting <code>X-Robots-Tag: noindex</code>, you should first look to inject the response header using your framework&apos;s built-in methods. If you are not using a framework or your framework does not support injecting response headers, you may modify the Header object in your <code>vercel.json</code> file.
       </p>
       <br />
       <p>

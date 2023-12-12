@@ -22,18 +22,18 @@ export default function Q4() {
           <br />
           <p>
 
-        Thank you for contacting Vercel Support. I am Elyse, and I’ll be supporting you from the PST timezone.
+        Thank you for contacting Vercel Support. I am Elyse, and I will be supporting you from the PST timezone.
           </p>
           <br />
       <p>
-        I understand you would like to redirect the "/blog" path on your Vercel project to another website. Please correct me if I have not fully understood your request.
+        I understand you would like to redirect the &quot;/blog&quot; path on your Vercel project to another website. Please correct me if I have not fully understood your request.
       </p>
       <br />
       <p>
         Please review the following documentation for more details{' '}
         <a href="https://vercel.com/docs/edge-network/redirects#configuration-redirects" style={linkStyle}>
           [1]
-        </a>. With redirects on Vercel, you can define HTTP redirects in your application's configuration, regardless of the framework that you are using, including both dynamic and static redirects. Redirects are processed at the Edge across all regions.
+        </a>. With redirects on Vercel, you can define HTTP redirects in your application&apos;s configuration, regardless of the framework that you are using, including both dynamic and static redirects. Redirects are processed at the Edge across all regions.
           </p>
           <br />
       <p>
