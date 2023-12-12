@@ -43,7 +43,7 @@ export default function Home() {
       <li style={listItemStyle}>
         <Link href="/Q4">
           <div>
-            <strong>4)</strong> A customer has a project on Vercel and they want to redirect the /blog path to another website. Please write a reply to the customer. Separately, list any relevant documentation you found and any feedback or information you’&apos;d like to share about your decision-making process.
+            <strong>4)</strong> A customer has a project on Vercel and they want to redirect the /blog path to another website. Please write a reply to the customer. Separately, list any relevant documentation you found and any feedback or information you&apos;d like to share about your decision-making process.
           </div>
         </Link>
       </li>
@@ -51,7 +51,7 @@ export default function Home() {
       <li style={listItemStyle}>
         <Link href="/Q5">
           <div>
-            <strong>5)</strong> Imagine that the customer from Question 4 responds with the following email. “I&apos;m so frustrated. I&apos;ve been trying to make this work for hours and I just can&apos;t figure it out. It must be a platform issue so why don&apos;t you just fix it for me instead of asking me questions.”
+            <strong>5)</strong> Imagine that the customer from Question 4 responds with the following email. &quot;I&apos;m so frustrated. I&apos;ve been trying to make this work for hours and I just can&apos;t figure it out. It must be a platform issue so why don&apos;t you just fix it for me instead of asking me questions.&quot;
           </div>
         </Link>
       </li>
