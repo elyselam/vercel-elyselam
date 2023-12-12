@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import Header from './Header';
+import Header from './header';
 
 const listItemStyle = {
   margin: '20px 0',
